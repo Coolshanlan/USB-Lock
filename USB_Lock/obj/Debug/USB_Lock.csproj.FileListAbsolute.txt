@@ -1,0 +1,29 @@
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\bin\Debug\USB_Lock.exe.config
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\bin\Debug\USB_Lock.exe
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\bin\Debug\USB_Lock.pdb
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Form1.resources
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Properties.Resources.resources
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.exe
+G:\我的雲端硬碟\Project C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\bin\Debug\USB_Lock.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\bin\Debug\USB_Lock.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\bin\Debug\USB_Lock.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Form1.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Password.resources
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\bin\Debug\USB_Lock.exe.config
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\bin\Debug\USB_Lock.exe
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\bin\Debug\USB_Lock.pdb
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Form1.resources
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Password.resources
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.Properties.Resources.resources
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.csproj.GenerateResource.Cache
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.exe
+C:\Users\Joey\Desktop\USB_Lock\USB_Lock\obj\Debug\USB_Lock.pdb
