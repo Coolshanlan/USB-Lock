@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Configuration;
@@ -34,7 +34,7 @@ namespace USB_Lock
         return sb.ToString();
     }
      Password p = new Password();
-     string pass = "99EDB8557AE14E30409A5CFDBE2D7CCE";
+     string pass = "";
      private void button1_Click(object sender, EventArgs e)
      {
          p.ShowDialog();
